@@ -1,0 +1,5 @@
+## Interface: 70000
+## Title: FOVoffset
+## Notes: Offset the camera from your character's head
+
+core.lua
